@@ -29,7 +29,7 @@
 ## Weekly Assignments 
 
 * [WA1](https://katiehaley.github.io/wa/wa1.html)
-* WA2
+* [WA2](file:///Users/katiehaley/Documents/GitHub/katiehaley.github.io/wa/wa2.html)
 * WA3
 * WA4
 * WA5
