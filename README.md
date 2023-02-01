@@ -12,7 +12,8 @@
 
 * [ICA1](https://docs.google.com/document/d/1_n11byT-a5Z-rF3KMUVMA3t7l_Bc9iX5zeL0oImIR7s/edit?usp=sharing)
 * [ICA2](https://docs.google.com/document/d/1LCS-q3uJ2K5Qka2Ybe_V-YvmYSV4nCytKg3C4WtcrXs/edit?usp=sharing)
-* ICA3
+* [ICA3a](http://127.0.0.1:5500/ica/ica3a.html) 
+* [ICA3b](http://127.0.0.1:5500/ica3-part2/index.html)
 * ICA4
 * ICA5
 * ICA6
