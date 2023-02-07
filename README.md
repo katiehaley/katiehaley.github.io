@@ -14,7 +14,7 @@
 * [ICA2](https://docs.google.com/document/d/1LCS-q3uJ2K5Qka2Ybe_V-YvmYSV4nCytKg3C4WtcrXs/edit?usp=sharing)
 * [ICA3a](https://katiehaley.github.io/ica/ica3a.html) 
 * [ICA3b](https://katiehaley.github.io/ica3-part2/index.html)
-* ICA4
+* [ICA4](https://katiehaley.github.io/ica/ica4.html)
 * ICA5
 * ICA6
 * ICA7
