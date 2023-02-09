@@ -4,7 +4,7 @@
 
 ## Projects 
 
-* HTML
+* [HTML](https://katiehaley.github.io/html-midterm/page1.html)
 * CSS
 * JS
 
