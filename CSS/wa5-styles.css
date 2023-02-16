@@ -1,0 +1,33 @@
+* {box-sizing: border-box;}
+
+.container {
+    position: relative;
+    width: 70%;
+    margin: auto; 
+}
+
+.image {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+#overlay1 {
+    position: absolute;
+    bottom: 80%;
+    right: 5%;
+    width: 10%;
+}
+
+#overlay2 {
+    position: absolute;
+    bottom: 8%;
+    right: 25%;
+    width: 50%;
+    color: black;
+    font-size: 50px;
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+    font-display: center;
+}
