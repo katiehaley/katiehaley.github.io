@@ -33,7 +33,7 @@
 * [WA2](https://katiehaley.github.io/wa/wa2.html)
 * [WA3](https://katiehaley.github.io/wa/wa3.html#hot-topics)
 * [WA4](https://katiehaley.github.io/wa/wa4.html)
-* WA5
+* [WA5](https://katiehaley.github.io/wa/wa5.html)
 * WA6
 * WA7
 * WA8
