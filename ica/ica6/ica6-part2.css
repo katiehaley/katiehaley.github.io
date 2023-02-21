@@ -1,0 +1,72 @@
+body{
+    background-color: olive;
+}
+#flex-parent{
+    display:flex;
+    background-color: orangered;
+}
+
+#flex-parent p{
+    padding:5vw;
+}
+
+#grid-parent{
+    display:grid;
+}
+
+#grid-parent h1{
+    background-color: grey;
+    padding:3vw 5vh;
+    margin:5vw;
+    
+}
+#no0{
+    position:absolute;
+    left:40%;
+    bottom: -15%;
+}
+#no1{
+    position:absolute;
+    left: 30%;
+    bottom: 40%;
+}
+#no2{
+    position:absolute;
+    left: 40%;
+    bottom: 40%;
+}
+#no3{
+    position:absolute;
+    left:50%;
+    bottom: 40%;
+}
+#no4{
+    position:absolute;
+    left: 30%;
+    bottom: 20%;
+}
+#no5{
+    position:absolute;
+    left: 40%;
+    bottom: 20%;
+}
+#no6{
+    position: absolute;
+    left:50%;
+    bottom: 20%;
+}
+#no7{
+    position:absolute;
+    left:30%;
+    bottom: 2%;
+}
+#no8{
+    position: absolute;
+    left: 40%;
+    bottom: 2%;
+}
+#no9{
+    position: absolute;
+    left:50%;
+    bottom: 2%;
+}
