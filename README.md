@@ -34,7 +34,7 @@
 * [WA3](https://katiehaley.github.io/wa/wa3.html#hot-topics)
 * [WA4](https://katiehaley.github.io/wa/wa4.html)
 * [WA5](https://katiehaley.github.io/wa/wa5.html)
-* WA6
+* [WA6](https://katiehaley.github.io/wa/wa6/index.html)
 * WA7
 * WA8
 * WA9
