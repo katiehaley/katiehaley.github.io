@@ -16,7 +16,7 @@
 * [ICA3b](https://katiehaley.github.io/ica3-part2/index.html)
 * [ICA4](https://katiehaley.github.io/ica/ica4.html)
 * [ICA5](https://katiehaley.github.io/ica/ica5.html)
-* ICA6
+* [ICA6](https://github.com/katiehaley/katiehaley.github.io/tree/main/ica/ica6)
 * ICA7
 * ICA8
 * ICA9
