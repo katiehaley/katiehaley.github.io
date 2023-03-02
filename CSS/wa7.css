@@ -1,0 +1,50 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: blue;
+    background-color: rgb(205, 241, 255);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+nav{
+    height: 50vh;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height:20px;
+    background-color: blue;
+}
+nav a{
+    width:10vw;
+    text-align: center;
+    text-decoration: none;
+    color:rgb(250, 245, 186);
+    animation-name: button;
+}
+
+nav a:hover{
+    background-color: rgb(250, 245, 186);
+    color: blue;
+}
+
+img{
+    width:40vw;
+    height: 40vh;
+}
+
+#red-ball{
+    background-color: blue;
+    width: 20px;
+    height:20px;
+    border-radius: 50%;
+    position: absolute;
+    left:5vw;
+    top:0;
+    transition-duration: 5s;
+}
+
+#red-ball:hover{
+    background-color: rgb(250, 245, 186);
+    width: 800px;
+    height: 800px;
+}
