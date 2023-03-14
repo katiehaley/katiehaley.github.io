@@ -19,7 +19,7 @@
 * [ICA6](https://github.com/katiehaley/katiehaley.github.io/tree/main/ica/ica6)
 * [ICA7](https://katiehaley.github.io/ica/ica7.html)
 * ICA8
-* ICA9
+* [ICA9](https://katiehaley.github.io/ica/ica9.html)
 * ICA10
 * ICA11
 * ICA12
