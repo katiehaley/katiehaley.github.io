@@ -25,7 +25,7 @@ function result() {
     let yItem = randomValueFromArray(insertY);
     let zItem = randomValueFromArray(insertZ);
 
-    newStory = newStory.replace (":insertx:", xItem).replace("inserty",xItem).replace(":inserty:", yItem).replace(":insertz:", zItem);
+    newStory = newStory.replace (":insertx:", xItem).replace("insertx",xItem).replace(":inserty:", yItem).replace(":insertz:", zItem);
 
   if(customName.value !== '') {
     let name = customName.value;
