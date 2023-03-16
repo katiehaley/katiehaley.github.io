@@ -7,11 +7,11 @@ function randomValueFromArray(array){
   return array[random];
 }
 
-let storyText = "It was 94 fahrenheit outside, so :insertx: went for a walk. When they got to :inserty:, they stared in horror for a few moments, then :insertz:. Bob saw the whole thing, but was not surprised — :insertx: weighs 300 pounds, and it was a hot day.";
+let storyText = "It was 64 fahrenheit outside and there was a rainbow, so :insertx: went to look for the end of a rianbow. When they got to :inserty:, they stared in horror for a few moments, then :insertz:. Bob saw the whole thing, but was not surprised — :insertx: weighs 300 pounds, and the rainbow was gone.";
 
-let insertX = ["Willy the Goblin", "Big Daddy", "Father Christmas"];
-let insertY = ["the soup kitchen", "Disneyland","the White House"];
-let insertZ = ["spontaneously combusted", "melted into a puddle on the sidewalk", "turned into a slug and crawled away"];
+let insertX = ["leprechaun", "Big Daddy", "Father Christmas"];
+let insertY = ["the end of the rainbow", "the pot of gold","the White House"];
+let insertZ = ["spontaneously combusted", "melted into a puddle on the sidewalk", "turned into gold"];
 
 function randomValueFromArray(array){
     const random = Math.floor(Math.random()*array.length);
