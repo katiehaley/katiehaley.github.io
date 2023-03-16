@@ -9,7 +9,7 @@ function randomValueFromArray(array){
 
 let storyText = "It was 64 fahrenheit outside and there was a rainbow, so :insertx: went to look for the end of a rianbow. When they got to :inserty:, they stared in horror for a few moments, then :insertz:. Bob saw the whole thing, but was not surprised — :insertx: weighs 300 pounds, and the rainbow was gone.";
 
-let insertX = ["leprechaun", "Big Daddy", "Father Christmas"];
+let insertX = ["leprechaun", "Easter Bunny", "Father Christmas"];
 let insertY = ["the end of the rainbow", "the pot of gold","the White House"];
 let insertZ = ["spontaneously combusted", "melted into a puddle on the sidewalk", "turned into gold"];
 
@@ -36,15 +36,6 @@ function result() {
     const weight = Math.round(300*0.07).toString() + ' stone';
     const temperature =  Math.round((94-32)/1.8).toString() + ' centigrade';
     newStory = newStory.replace('94 fahrenheit',temperature).replace('300 pounds',weight);
-
-
-   //let stoneweight = weight/14;
-    //let celtemp = (temperature-32)*.5556;
-
-    //let stonestring = stoneweight.toString() + "stone";
-    //let celtstring = celtemp.toString() + "celsius";
-
-    //newStory = newStory.replace("fahrenheit", celtemp).replace("pounds", stoneweight);
   }
 
   story.textContent = newStory;
