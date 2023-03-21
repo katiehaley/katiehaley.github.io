@@ -5,7 +5,7 @@
 ## Projects 
 
 * [HTML](https://katiehaley.github.io/html-midterm/page1.html)
-* CSS
+* [CSS](https://katiehaley.github.io/css_midterm.html)
 * JS
 
 ## In-Class Assignments 
