@@ -21,7 +21,7 @@
 * ICA8
 * [ICA9](https://katiehaley.github.io/ica/ica9.html)
 * [ICA10](https://katiehaley.github.io/ica/ica10.html)
-* ICA11
+* [ICA11](https://katiehaley.github.io/ica/ica11.html)
 * ICA12
 * ICA13
 * ICA14
@@ -38,8 +38,8 @@
 * [WA7](https://katiehaley.github.io/wa/wa7.html)
 * WA8
 * [WA9](https://katiehaley.github.io/wa/wa9.html)
-* WA10
-* WA11
+* [WA10](https://katiehaley.github.io/wa/wa10.html)
+* [WA11](https://katiehaley.github.io/wa/wa11.html)
 * WA12
 * WA13
 * WA14
