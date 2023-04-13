@@ -71,15 +71,16 @@ class Ball {
 
 const balls = [];
 
+// how many balls we want
 while (balls.length < 25) {
-    const size = random(10, 20);
+    const size = random(10, 20); // determin. smallest and largest ball
     const ball = new Ball(
         // ball position always drawn at least one ball width
         // away from the edge of the canvas, to avoid drawing errors
-        random(0 + size, width - size),
-        random(0 + size, height - size),
-        random(-7, 7),
-        random(-7, 7),
+        random(0 + size, width - size), //random pos
+        random(0 + size, height - size), //random pos.
+        random(-7, 7), //random speed x
+        random(-7, 7), // random speed y
         randomRGB(),
         size
     );
