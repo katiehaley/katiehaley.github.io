@@ -70,3 +70,41 @@ var sliderOutput = document.querySelector(".slider-output");
 function update() {
   sliderOutput.textContent = slider.value;
 }
+
+//start stop volume 
+var changeButton = document.getElementById("change-volume-button");
+var stopButton = document.getElementById("stop-volume-button");
+var volumeNumberEl = document.getElementById("volume-number");
+var volume = 100;
+var changeTimeout = 5;
+
+var shouldChangeVolume = false;
+function changeVolume() {
+  volume++;
+  if (volume > 100) {
+    volume = 0;
+  }
+  
+  volumeNumberEl.textContent = volume;
+  
+  if (!shouldChangeVolume) {
+    shouldChangeVolume = true;
+    changeButton.classList.add("invisible");
+    stopButton.classList.remove("invisible");
+  }
+  
+  setTimeout(function() {
+    if (shouldChangeVolume) {
+      changeVolume();
+    }
+  }, changeTimeout);
+}
+changeButton.addEventListener("click", changeVolume);
+
+function stopVolume() {
+    shouldChangeVolume = false;
+    changeButton.classList.remove("invisible");
+    stopButton.classList.add("invisible");
+}
+stopButton.addEventListener("click", stopVolume);
+
