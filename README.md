@@ -41,6 +41,6 @@
 * [WA10](https://katiehaley.github.io/wa/wa10.html)
 * [WA11](https://katiehaley.github.io/wa/wa11.html)
 * [WA12](https://katiehaley.github.io/wa/wa12.html)
-* WA13
-* WA14
+* [WA13](http://katiehaley.me/wa/wa13.html)
+* [WA14](http://katiehaley.me/wa/wa14.html)
 * WA15
